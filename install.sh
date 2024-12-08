@@ -7,7 +7,7 @@ set -e
 
 # ========================================
 
-HARBOR_INSTALL_PATH="${HOME}/.harbor"
+HARBOR_INSTALL_PATH="${HOME}/AI/harbor"
 HARBOR_REPO_URL="https://github.com/av/harbor.git"
 HARBOR_RELEASE_URL="https://api.github.com/repos/av/harbor/releases/latest"
 HARBOR_VERSION=""
